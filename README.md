@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋 , ben Alperen Sertkaya</h1><h3 align="center">Yazılım alanında kendini geliştirmeye çalışan bir genç.</h3>- 🌱 Şu anda **Python**
+<h1 align="center">Merhaba 👋 , ben Alperen </h1><h3 align="center">Yazılım alanında kendini geliştirmeye çalışan bir genç.</h3>-
 
 <h3 align="left">Connect with me öğreniyorum:</h3>
 
